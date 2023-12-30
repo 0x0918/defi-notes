@@ -4,6 +4,8 @@
 - Be able to integrate a simple dapp into another defi protocol
 - Understand the fundamentals of protocols
 
+- TODO: Simple apps for each protocol
+
 ## Topics
 - Syllabus ✅
 - MEV ✅
