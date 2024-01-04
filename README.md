@@ -39,12 +39,6 @@
     - Summary
 - Price oracle ✅
     - Chainlink
-- Lending 
-    - AAVE 🚧
-    - Compound 🚧
-    - Flash loan
-    - Rebase tokens
-    - Summary
 - Stablecoin ✅
     - DAI
         - Overview
@@ -65,6 +59,12 @@
         - What can we do with DAI and Maker protocol?🤔
         - Leverage🤔
         - Summary
+- Lending 
+    - AAVE 🚧
+    - Compound 🚧
+    - Flash loan
+    - Rebase tokens
+    - Summary
 - Liquid staking 🚧
     - Lido
     - Rocket pool
