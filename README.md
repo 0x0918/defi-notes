@@ -48,18 +48,19 @@
 - Stablecoin ✅
     - DAI
         - Overview
-        - CDP
+        - CDP and vaults
+        - Math (wad, ray, rad)
         - Debt math
         - Contract overview
         - Add collateral
         - Borrow
         - Repay
-        - Liquidation
+        - Liquidation, math and auction
         - Debt auction
         - Surplus auction
-        - DAI savings rate
-        - PSM🤔
-        - Flash🤔
+        - DSR (math)
+        - PSsM
+        - Flash
         - Flash mint DAI -> Sell DAI for USDC on Uniswap -> Sell USDC to PSM -> Repay flash loan
         - What can we do with DAI and Maker protocol?🤔
         - Leverage🤔
